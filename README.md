@@ -4,7 +4,7 @@ Windows utilities with one launcher and a choice of apps on each PC. This reposi
 
 **[Get the latest release](https://github.com/carrnate85-stack/utility-hub-updates/releases/latest)**
 
-Current 4.2.0 installer: [Download setup](https://github.com/carrnate85-stack/utility-hub-updates/releases/latest/download/Utility-Hub-Suite-Setup-4.2.0.exe). For later versions, use the latest-release page above to find their setup file.
+Current 4.2.0 installer: [Download setup](https://github.com/carrnate85-stack/utility-hub-updates/releases/download/v4.2.0/Utility-Hub-Suite-Setup-4.2.0.exe). For later versions, use the latest-release page above to find their setup file.
 
 ## Install
 
